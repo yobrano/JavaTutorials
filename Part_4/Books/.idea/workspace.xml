@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b7712adb-e441-4959-9e8b-9dfcad9e7080" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Items/src/Items.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PersonalInformationCollection/src/PersonalInformationCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelevisionPrograms/src/TelevisionProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 2/AverageInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 2/AveragePositiveInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 2/CountAndSummateInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 2/CountInputs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 2/CountNegativeInputs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 2/CountToParam.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 2/CountUntilNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 2/DivisibleByThreeInRange.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 2/Division.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 2/EvenOrOdd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 2/Factorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 2/HoleInGround.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 2/LoopSquareInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 2/RangePrinter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 2/SquareInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 2/SquarerootInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 2/SumBetween.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 2/SumSequence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 2/SummateInputs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 2/Traveller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/AbsoluteNumbers/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/AbsoluteNumbers/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/AbsoluteNumbers/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/AbsoluteNumbers/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/AbsoluteNumbers/AbsoluteNumbers.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/AbsoluteNumbers/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/AddTwo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/AddTwo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/AddTwo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/AddTwo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/AddTwo/AddTwo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/AddTwo/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/AgeInMonths/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/AgeInMonths/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/AgeInMonths/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/AgeInMonths/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/AgeInMonths/AgeInMonths.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/AgeInMonths/src/AgeInDays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/AgeInMonths/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/AverageThree/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/AverageThree/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/AverageThree/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/AverageThree/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/AverageThree/AverageThree.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/AverageThree/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/AverageTwo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/AverageTwo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/AverageTwo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/AverageTwo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/AverageTwo/AverageTwo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/AverageTwo/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/Conversation/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/Conversation/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/Conversation/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/Conversation/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/Conversation/Conversation.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/Conversation/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/IsAdult/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/IsAdult/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/IsAdult/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/IsAdult/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/IsAdult/IsAdult.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/IsAdult/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/IsPositiveNum/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/IsPositiveNum/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/IsPositiveNum/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/IsPositiveNum/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/IsPositiveNum/IsPositiveNum.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/IsPositiveNum/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/LargerOrEqualTo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/LargerOrEqualTo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/LargerOrEqualTo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/LargerOrEqualTo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/LargerOrEqualTo/LargerOrEqualTo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/LargerOrEqualTo/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/MarksGrading/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/MarksGrading/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/MarksGrading/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/MarksGrading/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/MarksGrading/MarksGrading.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/MarksGrading/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/MultiplyTwo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/MultiplyTwo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/MultiplyTwo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/MultiplyTwo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/MultiplyTwo/MultiplyTwo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/MultiplyTwo/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/OnceUponATime/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/OnceUponATime/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/OnceUponATime/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/OnceUponATime/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/OnceUponATime/OnceUponATime.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/OnceUponATime/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/ReadVariables/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/ReadVariables/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/ReadVariables/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/ReadVariables/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/ReadVariables/ReadVariables.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/ReadVariables/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/ReadingInput/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/ReadingInput/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/ReadingInput/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/ReadingInput/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/ReadingInput/ReadingInput.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/ReadingInput/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/SpeedTicket/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/SpeedTicket/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/SpeedTicket/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/SpeedTicket/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/SpeedTicket/SpeedTicket.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/SpeedTicket/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/Story/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/Story/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/Story/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/Story/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/Story/Story.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/Story/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/Variables/Variables/ByTwoCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/Variables/Variables/CaputDraconis.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/Variables/Variables/ConditionalStatements.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/Variables/Variables/DivisionOperations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/Variables/Variables/GiftTaxCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/Variables/Variables/LeapYearChecker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/Variables/Variables/LegitAge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/Variables/Variables/Orwell.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/Variables/Variables/ReadInNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/Variables/Variables/SameString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/Variables/Variables/VarTypes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/untitled/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/untitled/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/untitled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/untitled/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part_1/0_Print/untitled/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Variables/ByTwoCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Variables/CaputDraconis.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Variables/ConditionalStatements.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Variables/DivisionOperations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Variables/GiftTaxCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Variables/LeapYearChecker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Variables/LegitAge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Variables/Orwell.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Variables/ReadInNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Variables/SameString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Variables/VarTypes.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3IJkoqByYSK5ALqsHu4Ii5HwcKL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "D:/Tutorials/JavaTutorials/Part_4/Books/src/Main.java"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-63390994e64e-intellij.indexing.shared.core-IU-262.8665.258" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.8665.258" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7712adb-e441-4959-9e8b-9dfcad9e7080" name="Changes" comment="" />
+      <created>1787490237433</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1787490237433</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
