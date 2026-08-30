@@ -19,8 +19,6 @@ public class Person{
         this.name = otherName;
     }
 
-
-
     public int getAge(){
         return this.age;
     }
