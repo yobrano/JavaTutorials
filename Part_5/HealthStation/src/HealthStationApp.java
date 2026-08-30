@@ -1,4 +1,4 @@
-public class App {
+public class HealthStationApp {
     public static void main(String[] args) throws Exception {
         Person ethan = new Person("Ethan", 10, 1, 47);
         Person peter = new Person("Peter",33, 2, 83);
