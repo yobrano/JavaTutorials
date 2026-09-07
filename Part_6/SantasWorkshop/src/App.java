@@ -8,7 +8,7 @@ public class App {
 
 
         return "\u001B[33m" +text+"\u001B[0m";
-    };
+    }
     public static void main(String[] args) throws Exception {
         testGift();
         testPackage();
