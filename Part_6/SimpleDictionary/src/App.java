@@ -1,6 +1,14 @@
+import java.util.Scanner;
+
 public class App {
     public static void main(String[] args) throws Exception {
-        testSimpleDictionary();
+        // testSimpleDictionary();
+        testUI();
+    }
+
+    public static void testUI(){
+        TextUI ui = new TextUI(new Scanner(System.in), new SimpleDictionary());
+        ui.start();
     }
 
     public static void testSimpleDictionary(){
