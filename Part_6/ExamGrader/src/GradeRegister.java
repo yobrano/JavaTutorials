@@ -3,7 +3,6 @@ import java.util.ArrayList;
 public class GradeRegister {
 
     private ArrayList<Integer> grades;
-
     public GradeRegister() {
         this.grades = new ArrayList<>();
     }
@@ -41,5 +40,17 @@ public class GradeRegister {
         }
 
         return grade;
+    }
+
+    public int summationOfGrades(){
+        int total = 0;
+        for(int grade: this.grades){
+            total += grade;
+        }
+        return total;
+    }
+    public double averageOfGrades(){
+        double average = (this.summationOfGrades() * 1.0) / this.grades.size();
+        return average;
     }
 }
