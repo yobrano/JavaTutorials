@@ -15,6 +15,7 @@ public class TodoList {
             Task task = this.tasks.get(i);
             System.out.println((i+1)+". "+task.getTitle());
         }
+        System.out.println();
     }
 
     public void remove(int number){
