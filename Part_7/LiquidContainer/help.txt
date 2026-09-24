@@ -1,0 +1,5 @@
+Liquid Container transfers liquid between two containers with the help of the following methods:
+    add x       :   Adds a positive amount x onto first container;
+    move x      :   Transfers a positive amount x from the first container to the second.
+    remove x    :   Removes a positive amount x from the second container;
+    quit        :   Exits from the program.
