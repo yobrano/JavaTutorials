@@ -1,14 +1,16 @@
+import java.util.Arrays;
+
 public class App {
     public static void main(String[] args) throws Exception {
-        int[] numbers = {6, 5, 8, 7, 11};
-System.out.println("Smallest: " + smallest(numbers));
-System.out.println("Smallest Index: " + indexOfSmallest(numbers));
+        int[] numbers = {3, 2, 5, 4, 8};
 
-int[] array = {-1, 6, 9, 8, 12};
-System.out.println(indexOfSmallestFrom(array, 0));
-System.out.println(indexOfSmallestFrom(array, 1));
-System.out.println(indexOfSmallestFrom(array, 2));
+System.out.println(Arrays.toString(numbers));
 
+swap(numbers, 1, 0);
+System.out.println(Arrays.toString(numbers));
+
+swap(numbers, 0, 3);
+System.out.println(Arrays.toString(numbers));
 
     }
 
@@ -55,4 +57,13 @@ System.out.println(indexOfSmallestFrom(array, 2));
 
         return smallestIndex;
     }
+
+
+    public static void swap(int[] array, int index1, int index2) {
+        int val1 = array[index1];
+        int val2 = array[index2];
+        array[index1] = val2;
+        array[index2] = val1;
+    }
+
 }
